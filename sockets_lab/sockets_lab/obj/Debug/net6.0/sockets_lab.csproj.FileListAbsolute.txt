@@ -1,0 +1,15 @@
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\obj\Debug\net6.0\sockets_lab.csproj.AssemblyReference.cache
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\obj\Debug\net6.0\sockets_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\obj\Debug\net6.0\sockets_lab.AssemblyInfoInputs.cache
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\obj\Debug\net6.0\sockets_lab.AssemblyInfo.cs
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\obj\Debug\net6.0\sockets_lab.csproj.CoreCompileInputs.cache
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\bin\Debug\net6.0\sockets_lab.exe
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\bin\Debug\net6.0\sockets_lab.deps.json
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\bin\Debug\net6.0\sockets_lab.runtimeconfig.json
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\bin\Debug\net6.0\sockets_lab.dll
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\bin\Debug\net6.0\sockets_lab.pdb
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\obj\Debug\net6.0\sockets_lab.dll
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\obj\Debug\net6.0\refint\sockets_lab.dll
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\obj\Debug\net6.0\sockets_lab.pdb
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\obj\Debug\net6.0\sockets_lab.genruntimeconfig.cache
+C:\Users\aywski\source\repos\sockets_lab\sockets_lab\obj\Debug\net6.0\ref\sockets_lab.dll
